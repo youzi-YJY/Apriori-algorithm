@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65c06043-dceb-4123-a554-8e33fa35638f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QEdxwZ2gKfpouLBIqEMr5k0HyD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/breast_cancer_rules_mining" />
+      <recent name="$PROJECT_DIR$/breast_cancer_rules_mining/code" />
+      <recent name="$PROJECT_DIR$/breast_cancer_rules_mining/code/code_sum" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data_preprocessing/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.discretization">
+    <configuration name="PCA_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_analye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocessing/PCA_analyze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="apriori_rules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/breast_cancer_rules_mining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/breast_cancer_rules_mining/apriori_rules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="discretization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_analye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/breast_cancer_rules_mining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/breast_cancer_rules_mining/discretization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_analye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wave_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_analye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocessing/wave_analyze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.discretization" />
+        <item itemvalue="Python.apriori_rules" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.PCA_analyze" />
+        <item itemvalue="Python.wave_analyze" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c06043-dceb-4123-a554-8e33fa35638f" name="Default Changelist" comment="" />
+      <created>1567339939776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567339939776</updated>
+      <workItem from="1567339953181" duration="162000" />
+      <workItem from="1567340155787" duration="965000" />
+      <workItem from="1567496169840" duration="21000" />
+      <workItem from="1567910053689" duration="210000" />
+      <workItem from="1567910271696" duration="8655000" />
+      <workItem from="1568204225675" duration="937000" />
+      <workItem from="1568250868497" duration="5692000" />
+      <workItem from="1568337696889" duration="8234000" />
+      <workItem from="1568774101482" duration="29000" />
+      <workItem from="1569636761813" duration="2000" />
+      <workItem from="1570956155325" duration="1000" />
+      <workItem from="1572611380504" duration="13000" />
+      <workItem from="1573522227140" duration="1896000" />
+      <workItem from="1573609361940" duration="1736000" />
+      <workItem from="1573632485199" duration="56000" />
+      <workItem from="1573632714276" duration="172000" />
+      <workItem from="1573730209214" duration="799000" />
+      <workItem from="1574673757389" duration="7000" />
+      <workItem from="1574941248381" duration="2404000" />
+      <workItem from="1574949169934" duration="89000" />
+      <workItem from="1576498894651" duration="67000" />
+      <workItem from="1581819008854" duration="7000" />
+      <workItem from="1582271301527" duration="219000" />
+      <workItem from="1582271973968" duration="288000" />
+      <workItem from="1583546963232" duration="365000" />
+      <workItem from="1583568082197" duration="1018000" />
+      <workItem from="1588645879859" duration="917000" />
+      <workItem from="1588926103185" duration="605000" />
+      <workItem from="1593306091680" duration="480000" />
+      <workItem from="1593307918499" duration="546000" />
+      <workItem from="1593308995320" duration="1304000" />
+      <workItem from="1593312603603" duration="242000" />
+      <workItem from="1603157832048" duration="1000" />
+      <workItem from="1603593972650" duration="2000" />
+      <workItem from="1606308680274" duration="834000" />
+      <workItem from="1606901228589" duration="1087000" />
+      <workItem from="1607427782069" duration="241000" />
+      <workItem from="1607431747325" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="272" key="GridCell.Tab.0.bottom" timestamp="1607393832186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607393832186" />
+    <state width="1398" height="272" key="GridCell.Tab.0.center" timestamp="1607393832185">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607393832185" />
+    <state width="1398" height="272" key="GridCell.Tab.0.left" timestamp="1607393832184">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607393832184" />
+    <state width="1398" height="272" key="GridCell.Tab.0.right" timestamp="1607393832186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="272" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607393832186" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_tansuo/dish_pareto.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_analye$detct_inormal_data.coverage" NAME="detct_inormal_data Coverage Results" MODIFIED="1567911732555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tansuo" />
+    <SUITE FILE_PATH="coverage/data_analye$test.coverage" NAME="test Coverage Results" MODIFIED="1573610798919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data_analye$dish_pareto.coverage" NAME="dish_pareto Coverage Results" MODIFIED="1567993063765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tansuo" />
+    <SUITE FILE_PATH="coverage/data_analye$apriori_rules.coverage" NAME="apriori_rules Coverage Results" MODIFIED="1593306562472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/breast_cancer_rules_mining" />
+    <SUITE FILE_PATH="coverage/data_analye$data_discretization.coverage" NAME="data_discretization Coverage Results" MODIFIED="1568517303420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocessing" />
+    <SUITE FILE_PATH="coverage/data_analye$PCA_analyze.coverage" NAME="PCA_analyze Coverage Results" MODIFIED="1568536290340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocessing" />
+    <SUITE FILE_PATH="coverage/data_analye$discretization.coverage" NAME="discretization Coverage Results" MODIFIED="1606901487393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/breast_cancer_rules_mining" />
+    <SUITE FILE_PATH="coverage/data_analye$statistic_analyze.coverage" NAME="statistic_analyze Coverage Results" MODIFIED="1567992833393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tansuo" />
+    <SUITE FILE_PATH="coverage/data_analye$plot_various.coverage" NAME="plot_various Coverage Results" MODIFIED="1567997488833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_picture" />
+    <SUITE FILE_PATH="coverage/data_analye$correlation_analyze.coverage" NAME="correlation_analyze Coverage Results" MODIFIED="1567993512252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_tansuo" />
+    <SUITE FILE_PATH="coverage/data_analye$wave_analyze.coverage" NAME="wave_analyze Coverage Results" MODIFIED="1568533963274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocessing" />
+    <SUITE FILE_PATH="coverage/data_analye$lagrange_newton_interp.coverage" NAME="lagrange_newton_interp Coverage Results" MODIFIED="1568252353425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocessing" />
+  </component>
+</project>
