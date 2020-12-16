@@ -10,9 +10,12 @@ from __future__ import print_function
 import pandas as pd
 from sklearn.cluster import KMeans #导入K均值聚类算法
 
-datafile = 'data.xls' #待聚类的数据文件
-processedfile = '/tmp/data_processed_file' #数据处理后文件
+datafile = 'data/data.xls' #待聚类的数据文件
+processedfile = 'data_processed_file.xls' #数据处理后文件
 typelabel ={u'肝气郁结证型系数':'A', u'热毒蕴结证型系数':'B', u'冲任失调证型系数':'C', u'气血两虚证型系数':'D', u'脾胃虚弱证型系数':'E', u'肝肾阴虚证型系数':'F'}
+#datafile='data/测的数据修改.xlsx'
+#processedfile='tmp/data_processed_file.xls'
+#typelabel={u'Light':'A',u'Gas':'B','Tep':'C',u'Hum':'D'}
 k = 4 #需要进行的聚类类别数
 
 #读取数据并进行聚类分析
@@ -38,5 +41,5 @@ if __name__ == '__main__': #判断是否主窗口运行，这句代码的作用�
     result = result.append(r.T)
 
   result = result.sort_index() #以Index排序，即以A,B,C,D,E,F顺序排
-  #result.to_excel(processedfile)
+  result.to_excel(processedfile)
   print(result)

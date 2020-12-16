@@ -4,9 +4,13 @@ import pandas as pd
 from apriori import * #导入自行编写的apriori函数
 import time #导入时间库用来计算用时
 
-inputfile = 'apriori.txt' #输入事务集文件
+inputfile = 'data/apriori.txt' #输入事务集文件
+#inputfile='data/修改的数据4.xlsx'
+#CSV文件是一个纯文本文件，最早用在简单的数据库中。非常容易被导入各种PC表格及数据库
+#对Excel表格，CSV文件中的一行对应Excel的一行，CSV同一行的半角逗号相当于EXcel表格同一行
+#分割不同单元的竖线。
+#data = pd.read_excel(inputfile, header=None, dtype = object)
 data = pd.read_csv(inputfile, header=None, dtype = object)
-
 start = time.clock() #计时开始
 print(u'\n转换原始数据至0-1矩阵...')
 ct = lambda x : pd.Series(1, index = x) #转换0-1矩阵的过渡函数
@@ -16,8 +20,8 @@ end = time.clock() #计时结束
 print(u'\n转换完毕，用时：%0.2f秒' %(end-start))
 del b #删除中间变量b，节省内存
 
-support = 0.06 #最小支持度
-confidence = 0.75 #最小置信度
+support = 0.07 #最小支持度
+confidence = 0.7 #最小置信度
 ms = '---' #连接符，默认'--'，用来区分不同元素，如A--B。需要保证原始表格中不含有该字符
 
 start = time.clock() #计时开始
